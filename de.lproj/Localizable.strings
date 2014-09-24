@@ -1,0 +1,25 @@
+/* 
+  Localizable.strings
+  BierBrain
+
+  Created by Marcus Kida on 28.10.12.
+  Copyright (c) 2012 Marcus Kida. All rights reserved.
+*/
+
+"drink_details" = "%@ Getränke (%.2f Liter, %.2f €)";
+"new_drinker_title" = "Neuer Teilnehmer";
+"new_drinker_msg" = "Bitte gib einen Namen für den neuen Teilnehmer ein:";
+"cancel" = "Abbrechen";
+"add" = "Hinzufügen";
+"beverage_details" = "%.2fl mit %.1f %% Alkohol / Vol. (%.2f €)";
+"new_beverage" = "Neues Getränk";
+"error" = "Fehler";
+"brewerydb_api_failed" = "Leider gab es ein Problem: %@";
+"ok" = "OK";
+"note" = "Hinweis";
+"what_would_you_like_to_do" = "Was möchtest du tun?";
+"add_beverage" = "Getränk hinzufügen";
+"share" = "Teilen";
+"beer" = "Bier";
+"liquor" = "Schnaps";
+"licenses" = "Lizenzen";

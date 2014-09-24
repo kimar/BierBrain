@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>price</key>
+		<real>1.1</real>
+		<key>volumeLiters</key>
+		<real>0.5</real>
+		<key>alcoholPercent</key>
+		<real>4.9</real>
+		<key>type</key>
+		<string>beer</string>
+		<key>name</key>
+		<string>Herrenhäuser Premium Pilsener</string>
+	</dict>
+	<dict>
+		<key>price</key>
+		<integer>1</integer>
+		<key>volumeLiters</key>
+		<real>0.33</real>
+		<key>alcoholPercent</key>
+		<real>4.9</real>
+		<key>type</key>
+		<string>beer</string>
+		<key>name</key>
+		<string>Herrenhäuser Pilsener (Stoney)</string>
+	</dict>
+	<dict>
+		<key>price</key>
+		<real>2.5</real>
+		<key>volumeLiters</key>
+		<real>0.02</real>
+		<key>alcoholPercent</key>
+		<real>38</real>
+		<key>type</key>
+		<string>liquor</string>
+		<key>name</key>
+		<string>Sierra Tequila Silver</string>
+	</dict>
+</array>
+</plist>

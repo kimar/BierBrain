@@ -1,0 +1,24 @@
+//
+// Prefix header for all source files of the 'BierBrain' target in the 'BierBrain' project
+//
+
+#import <Availability.h>
+
+#ifndef __IPHONE_5_0
+#warning "This project uses features only available in iOS SDK 5.0 and later."
+#endif
+
+#ifdef __OBJC__
+    #define MR_SHORTHAND
+    #import <UIKit/UIKit.h>
+    #import <Foundation/Foundation.h>
+    #import <SystemConfiguration/SystemConfiguration.h>
+    #import <MobileCoreServices/MobileCoreServices.h>
+
+    #import "BWStatusBarOverlay.h"
+    #import "AFNetworking.h"
+    #import "NSString+URLEncoding.h"
+    #import "CoreData+MagicalRecord.h"
+    #import "DAKeyboardControl.h"
+    #import "BBConstants.h"
+#endif

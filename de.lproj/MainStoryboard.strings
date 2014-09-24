@@ -1,0 +1,105 @@
+
+/* Class = "IBUILabel"; text = "Name des Getränks"; ObjectID = "6sk-BH-87A"; */
+"6sk-BH-87A.text" = "Name des Getränks";
+
+/* Class = "IBUILabel"; text = "(c) 2012 by Marcus Kida"; ObjectID = "956-HG-o5d"; */
+"956-HG-o5d.text" = "(c) 2012 by Marcus Kida";
+
+/* Class = "IBUINavigationItem"; title = "Drinks"; ObjectID = "9ar-sj-3Zc"; */
+"9ar-sj-3Zc.title" = "Drinks";
+
+/* Class = "IBUITextField"; placeholder = "What are you looking for?"; ObjectID = "9fC-DC-gKL"; */
+"9fC-DC-gKL.placeholder" = "What are you looking for?";
+
+/* Class = "IBUILabel"; text = "Name des Getränks"; ObjectID = "APe-VC-7Sw"; */
+"APe-VC-7Sw.text" = "Name des Getränks";
+
+/* Class = "IBUILabel"; text = "Art des Getränks"; ObjectID = "Eh4-XH-ytB"; */
+"Eh4-XH-ytB.text" = "Art des Getränks";
+
+/* Class = "IBUILabel"; text = "0 Getränke"; ObjectID = "Er6-uY-UzJ"; */
+"Er6-uY-UzJ.text" = "0 Getränke";
+
+/* Class = "IBUINavigationItem"; title = "Drunk Beverages"; ObjectID = "Fzu-jt-IPd"; */
+"Fzu-jt-IPd.title" = "Drunk Beverages";
+
+/* Class = "IBUITabBarItem"; title = "Drinkers"; ObjectID = "GfL-CN-bQm"; */
+"GfL-CN-bQm.title" = "Drinkers";
+
+/* Class = "IBUITextView"; text = "This App makes use of the followin Open-Source technologies: AFNetworking, ShareKit, MagicalRecord, DAKeyboardControl, BWStatusBarOverlay. I would like to thank the developers of those greate pieces of software. TabBar Icons are proudly presented by glyphish.com"; ObjectID = "HYI-6I-ymx"; */
+"HYI-6I-ymx.text" = "This App makes use of the followin Open-Source technologies: AFNetworking, ShareKit, MagicalRecord, DAKeyboardControl, BWStatusBarOverlay. I would like to thank the developers of those greate pieces of software. TabBar Icons are proudly presented by glyphish.com";
+
+/* Class = "IBUILabel"; text = "0,33l mit 4,9 % Alkohol / Vol."; ObjectID = "I9K-zj-fsW"; */
+"I9K-zj-fsW.text" = "0,33l mit 4,9 % Alkohol / Vol.";
+
+/* Class = "IBUILabel"; text = "Art des Getränks"; ObjectID = "KUm-d0-YbS"; */
+"KUm-d0-YbS.text" = "Art des Getränks";
+
+/* Class = "IBUILabel"; text = "Name des Getränks"; ObjectID = "LTW-y2-3EV"; */
+"LTW-y2-3EV.text" = "Name des Getränks";
+
+/* Class = "IBUILabel"; text = "0,33l mit 4,9 % Alkohol / Vol."; ObjectID = "McM-oo-L4P"; */
+"McM-oo-L4P.text" = "0,33l mit 4,9 % Alkohol / Vol.";
+
+/* Class = "IBUINavigationItem"; title = "Add Beverage"; ObjectID = "No7-Jt-4la"; */
+"No7-Jt-4la.title" = "Add Beverage";
+
+/* Class = "IBUITextField"; placeholder = "Name"; ObjectID = "O7y-Od-KFM"; */
+"O7y-Od-KFM.placeholder" = "Name";
+
+/* Class = "IBUILabel"; text = "Show licenses"; ObjectID = "RRR-HC-8KI"; */
+"RRR-HC-8KI.text" = "Show licenses";
+
+/* Class = "IBUILabel"; text = "BierBrain"; ObjectID = "UvN-Ls-4cA"; */
+"UvN-Ls-4cA.text" = "BierBrain";
+
+/* Class = "IBUILabel"; text = "0,33l mit 4,9 % Alkohol / Vol."; ObjectID = "XQs-n8-mJQ"; */
+"XQs-n8-mJQ.text" = "0,33l mit 4,9 % Alkohol / Vol.";
+
+/* Class = "IBUILabel"; text = "http://indiecoder.net"; ObjectID = "XvL-Pu-mWG"; */
+"XvL-Pu-mWG.text" = "http://indiecoder.net";
+
+/* Class = "IBUILabel"; text = "Art des Getränks"; ObjectID = "aoE-2b-v0o"; */
+"aoE-2b-v0o.text" = "Art des Getränks";
+
+/* Class = "IBUITextView"; text = "Drink responsible, never ever drink and drive. Leave your car at it's place if you have drunk alcohol. Proudly inspired by \"Biermonitor\" for Android ;-)"; ObjectID = "bMI-Hz-huJ"; */
+"bMI-Hz-huJ.text" = "Drink responsible, never ever drink and drive. Leave your car at it's place if you have drunk alcohol. Proudly inspired by \"Biermonitor\" for Android ;-)";
+
+/* Class = "IBUITextField"; placeholder = "Amount of Volume"; ObjectID = "bfN-BW-vQ1"; */
+"bfN-BW-vQ1.placeholder" = "Amount of Volume";
+
+/* Class = "IBUITextField"; placeholder = "Price"; ObjectID = "e9K-Ta-uGU"; */
+"e9K-Ta-uGU.placeholder" = "Price";
+
+/* Class = "IBUILabel"; text = "0,33l mit 4,9 % Alkohol / Vol."; ObjectID = "erh-jt-ulQ"; */
+"erh-jt-ulQ.text" = "0,33l mit 4,9 % Alkohol / Vol.";
+
+/* Class = "IBUITextField"; placeholder = "Alcohol per Volume"; ObjectID = "f3b-2T-99H"; */
+"f3b-2T-99H.placeholder" = "Alcohol per Volume";
+
+/* Class = "IBUILabel"; text = "Name des Getränks"; ObjectID = "fNN-Ac-SGK"; */
+"fNN-Ac-SGK.text" = "Name des Getränks";
+
+/* Class = "IBUILabel"; text = "Name"; ObjectID = "i36-9t-Brx"; */
+"i36-9t-Brx.text" = "Name";
+
+/* Class = "IBUILabel"; text = "Save"; ObjectID = "lcC-Hd-87O"; */
+"lcC-Hd-87O.text" = "Save";
+
+/* Class = "IBUINavigationItem"; title = "Drinkers"; ObjectID = "ldH-Wq-q2c"; */
+"ldH-Wq-q2c.title" = "Drinkers";
+
+/* Class = "IBUILabel"; text = "Art des Getränks"; ObjectID = "o6W-QD-yib"; */
+"o6W-QD-yib.text" = "Art des Getränks";
+
+/* Class = "IBUINavigationItem"; title = "Info"; ObjectID = "qP7-1V-NfQ"; */
+"qP7-1V-NfQ.title" = "Info";
+
+/* Class = "IBUITabBarItem"; title = "Beverages"; ObjectID = "ql6-Ec-ikF"; */
+"ql6-Ec-ikF.title" = "Beverages";
+
+/* Class = "IBUITabBarItem"; title = "Info"; ObjectID = "rNu-lj-A2M"; */
+"rNu-lj-A2M.title" = "Info";
+
+/* Class = "IBUITextField"; placeholder = "Type / Kind"; ObjectID = "tn6-W5-chW"; */
+"tn6-W5-chW.placeholder" = "Type / Kind";
