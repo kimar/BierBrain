@@ -1,9 +1,11 @@
 # BierBrain
 ## aka. BeerBrain
 
-![Screenshot 1](http://kimar.github.io/screenshots/bierbrain/1.png)
-![Screenshot 2](http://kimar.github.io/screenshots/bierbrain/1.png)
-![Screenshot 3](http://kimar.github.io/screenshots/bierbrain/1.png)
+[![Twitter: @Kidmar](https://img.shields.io/badge/contact-@Kidmar-blue.svg?style=flat)](https://twitter.com/Kidmar)
+
+![Screenshot 1](https://raw.githubusercontent.com/kimar/blog.kida.io/master/screenshots/bierbrain/1.png)
+![Screenshot 2](https://raw.githubusercontent.com/kimar/blog.kida.io/master/screenshots/bierbrain/1.png)
+![Screenshot 3](https://raw.githubusercontent.com/kimar/blog.kida.io/master/screenshots/bierbrain/1.png)
 
 Some day's ago I've pulled this App from the AppStore as it's mostly obsolete and I've got no time maintaining/updating it. I removed some private credentials and deployed it to GitHub. So here ya go...
 
