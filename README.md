@@ -1,7 +1,8 @@
 # BierBrain
-## aka. BeerBrain
 
 [![Twitter: @Kidmar](https://img.shields.io/badge/contact-@Kidmar-blue.svg?style=flat)](https://twitter.com/Kidmar)
+
+## aka. BeerBrain
 
 ![Screenshot 1](https://raw.githubusercontent.com/kimar/blog.kida.io/master/screenshots/bierbrain/1.png)
 ![Screenshot 2](https://raw.githubusercontent.com/kimar/blog.kida.io/master/screenshots/bierbrain/1.png)
